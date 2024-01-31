@@ -1,0 +1,1 @@
+This project should hopefully demonstrate ma basic skill I have learnt so far in The Odin Project.
