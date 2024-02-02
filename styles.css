@@ -1,0 +1,40 @@
+* {
+    font-family: Tahoma, sans-serif;
+    text-decoration: none;
+    
+}
+
+h1,
+h3 {
+    color: rgb(171, 47, 182); 
+}
+
+h1 {
+    text-align: left;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+border: 5px solid #555;
+}
+
+.button {
+    font-size: 26px;
+    border: 2px solid #555;
+}
+
+.list-class {
+    font-weight: 700;
+    
+}
+
+#list-id {
+   font-size: 20px;
+}
