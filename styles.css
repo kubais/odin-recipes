@@ -40,6 +40,7 @@ p {
     margin: 20px;
     padding: 20px;
     font-size: 20px;
+    font-weight: 600;
     border: 1px rgb(171, 47, 182) groove;
 }
 
